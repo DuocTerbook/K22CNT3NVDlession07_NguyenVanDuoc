@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Nvd_Lession07_.Models.NvdCategory>
+
+@{
+    ViewBag.Title = "NvdIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>NvdIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvdCategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvdCategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NvdId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NvdId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NvdId })
+        </td>
+    </tr>
+}
+
+</table>
