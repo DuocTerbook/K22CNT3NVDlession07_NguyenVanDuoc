@@ -1,0 +1,74 @@
+﻿@model Nvd_lession07.Models.NvdBook
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NvdBook</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdBookId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdBookId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdAuthor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdAuthor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdPulisher)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdPulisher)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdPicture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdPicture)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdCategoryId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NvdId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

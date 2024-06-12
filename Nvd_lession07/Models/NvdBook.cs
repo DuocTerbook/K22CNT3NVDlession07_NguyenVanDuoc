@@ -1,11 +1,10 @@
-﻿using Nvd_Lession07_.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace Nvd_Lession07_1.Models
+namespace Nvd_lession07.Models
 {
     public class NvdBook
     {
@@ -16,8 +15,9 @@ namespace Nvd_Lession07_1.Models
         public string NvdAuthor { get; set; }
         public int NvdYear { get; set; }
         public string NvdPulisher { get; set; }
+        public string NvdPicture { get; set; }
         public int NvdCategoryId { get; set; }
-        // Thuộc tính quan hệ
+        //Thuộc tính quan hệ
         public virtual NvdCategory NvdCategory { get; set; }
     }
 }

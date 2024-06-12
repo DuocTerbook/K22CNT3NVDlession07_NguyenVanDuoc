@@ -1,0 +1,80 @@
+﻿@model Nvd_lession07.Models.NvdBook
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>NvdBook</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdBookId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdBookId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdAuthor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdAuthor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdPulisher)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdPulisher)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdPicture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdPicture)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvdCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvdCategoryId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

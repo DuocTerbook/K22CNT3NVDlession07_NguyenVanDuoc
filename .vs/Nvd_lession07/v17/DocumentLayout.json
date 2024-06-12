@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|d:\\k22cnt3_aspnet\\nvd_lession07\\nvd_lession07\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|d:\\k22cnt3_aspnet\\nvd_lession07\\nvd_lession07\\views\\nvdcategories\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\views\\nvdcategories\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|d:\\k22cnt3_aspnet\\nvd_lession07\\nvd_lession07\\controllers\\nvdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\controllers\\nvdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|d:\\k22cnt3_aspnet\\nvd_lession07\\nvd_lession07\\controllers\\nvdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88297EFA-9E73-4E7B-8218-CA7368CCFB3A}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\controllers\\nvdcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\controllers\\nvdbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\controllers\\nvdbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\models\\nvdbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\models\\nvdbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\views\\nvdcategories\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\views\\nvdcategories\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\views\\nvdcategories\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\views\\nvdcategories\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\models\\nvdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\models\\nvdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|D:\\K22CNT3_ASPNET\\Nvd_lession07\\nvd_lession07\\models\\nvdcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB29083-F800-4D52-8ACF-2B61DE55D0E0}|Nvd_lession07\\Nvd_lession07.csproj|solutionrelative:nvd_lession07\\models\\nvdcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +46,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvdBooksController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdBooksController.cs",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Controllers\\NvdBooksController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdBooksController.cs",
+              "RelativeToolTip": "Nvd_lession07\\Controllers\\NvdBooksController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:57:11.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvdCreate.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdCreate.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Views\\NvdCategories\\NvdCreate.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdCreate.cshtml",
+              "RelativeToolTip": "Nvd_lession07\\Views\\NvdCategories\\NvdCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:32:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nvd_lession07\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:23:06.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NvdIndex.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
+              "RelativeToolTip": "Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:22:39.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvdCategoriesController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
+              "RelativeToolTip": "Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:16:37.537Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,36 +117,46 @@
               "RelativeDocumentMoniker": "Nvd_lession07\\Web.config",
               "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Web.config",
               "RelativeToolTip": "Nvd_lession07\\Web.config",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAMwEwAAAAQAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-05T08:50:42.349Z",
+              "WhenOpened": "2024-06-05T09:14:23.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NvdIndex.cshtml",
-              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
-              "RelativeDocumentMoniker": "Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
-              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
-              "RelativeToolTip": "Nvd_lession07\\Views\\NvdCategories\\NvdIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T08:48:00.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NvdCategoriesController.cs",
-              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
-              "RelativeDocumentMoniker": "Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
-              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
-              "RelativeToolTip": "Nvd_lession07\\Controllers\\NvdCategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "DocumentIndex": 4,
+              "Title": "NvdBookStore.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdBookStore.cs",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Models\\NvdBookStore.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdBookStore.cs",
+              "RelativeToolTip": "Nvd_lession07\\Models\\NvdBookStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T08:41:14.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T09:08:15.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NvdBook.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdBook.cs",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Models\\NvdBook.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdBook.cs",
+              "RelativeToolTip": "Nvd_lession07\\Models\\NvdBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:02:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NvdCategory.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdCategory.cs",
+              "RelativeDocumentMoniker": "Nvd_lession07\\Models\\NvdCategory.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\Nvd_lession07\\Nvd_lession07\\Models\\NvdCategory.cs",
+              "RelativeToolTip": "Nvd_lession07\\Models\\NvdCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:01:18.62Z"
             }
           ]
         }
